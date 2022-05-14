@@ -23,7 +23,7 @@ Students Registration Form desktop application programmed in Java language (Swin
 
 - Clone the repository
   ```
-  gh repo clone Shruthi-Sivagnanam/Calculator
+  gh repo clone Shruthi-Sivagnanam/Student-registration-form
   ```
 - Generate .class file for program in package
   ```
