@@ -1,0 +1,22 @@
+{
+  "sqltools.connections": [
+    {
+      "mysqlOptions": {
+        "authProtocol": "default",
+        "enableSsl": "Disabled"
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 3306,
+      "driver": "MySQL",
+      "name": "Student",
+      "username": "root",
+      "database": "sample",
+      "password": ""
+    }
+  ],
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "c:\\Users\\DELL\\Downloads\\mysql-connector.jar\\mysql-connector.jar"
+  ]
+}
